@@ -53,12 +53,12 @@ Este proyecto busca llevar la espiritualidad Franciscana al mundo digital median
 ## 🚀 Tecnologías
 
 **Frontend**  
-[![React]
-[![Vite]
-[![Tailwind]
+React
+Vite
+Tailwind
 
 **Backend**  
-[![Strapi]
+Strapi
 
 ## ✨ Características
 
@@ -131,5 +131,4 @@ Web-Franciscanos/
 
 MIT © [Fabián Galindez Rivera](https://github.com/fabirian)
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
+(https://opensource.org/licenses/MIT)
