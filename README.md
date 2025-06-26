@@ -1,9 +1,61 @@
-```markdown
 ## Web Franciscanos
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Web+Franciscanos+Preview" alt="Preview">
-</p>
+**Sistema integral de gestión y visualización de contenidos para la comunidad Franciscana**
+
+## 📌 Descripción del Proyecto
+
+Web Franciscanos es una plataforma moderna que combina:
+
+- **Frontend dinámico** desarrollado con React.js y Vite
+- **CMS robusto** construido con Strapi (Node.js)
+- **Diseño adaptable** implementado con Tailwind CSS
+
+El sistema permite:
+
+✔️ Publicación y gestión centralizada de contenidos espirituales, eventos y noticias  
+✔️ Administración de usuarios y permisos para la comunidad Franciscana  
+✔️ Visualización optimizada para dispositivos móviles y desktop  
+✔️ Integración con redes sociales y plataformas de donaciones  
+
+**Objetivo principal**: Digitalizar y modernizar la presencia online de la comunidad Franciscana, facilitando la comunicación con sus miembros y el público en general.
+
+## 🎯 Características Clave
+
+### Para Administradores
+- Panel de control intuitivo para gestión de contenidos
+- Sistema de publicación programada
+- Moderación de comentarios
+- Estadísticas de visitas
+
+### Para Usuarios
+- Acceso a recursos espirituales
+- Calendario de eventos interactivo
+- Galería multimedia
+- Formularios de contacto
+
+**Tecnologías principales**: 
+`React 18` `Strapi 4` `Tailwind CSS 3` `JWT Auth` `REST API`
+
+### Versiones alternativas:
+
+## 🖥️ Arquitectura Técnica
+
+Solución fullstack con separación clara de capas:
+- **Frontend**: Single Page Application con React + Vite
+- **Backend**: API RESTful con Strapi (Node.js/Express)
+- **Base de datos**: PostgreSQL (en producción)
+- **Autenticación**: JWT con roles personalizados
+- **CI/CD**: Despliegue automático con GitHub Actions
+
+## ✝️ Misión Franciscana Digital
+
+Este proyecto busca llevar la espiritualidad Franciscana al mundo digital mediante:
+- Publicación diaria de reflexiones
+- Transmisión en vivo de misas
+- Plataforma de oración comunitaria
+- Recursos para formación espiritual
+- Conexión con obras sociales
+```
 
 ## 🚀 Tecnologías
 
