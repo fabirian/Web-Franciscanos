@@ -49,7 +49,6 @@ Este proyecto busca llevar la espiritualidad Franciscana al mundo digital median
 - Plataforma de oración comunitaria
 - Recursos para formación espiritual
 - Conexión con obras sociales
-```
 
 ## 🚀 Tecnologías
 
@@ -75,7 +74,6 @@ Este proyecto busca llevar la espiritualidad Franciscana al mundo digital median
 ```bash
 git clone https://github.com/fabirian/Web-Franciscanos.git
 cd Web-Franciscanos
-```
 
 2. Configura el backend (Strapi):
 ```bash
