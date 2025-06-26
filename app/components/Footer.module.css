@@ -1,0 +1,46 @@
+.footer {
+     @apply bg-gray-700 text-white py-8;
+}
+
+.container {
+    @apply max-w-6xl mx-auto flex flex-col md:flex-row md:justify-between items-center md:text-left px-6;
+}
+
+/*Logo y copyright*/
+.logoSection {
+    @apply flex flex-col items-center md:items-start mb-6 md:mb-0;
+}
+
+.logoSection p {
+    @apply text-sm mt-2 text-gray-400;
+}
+
+/*Menu footer*/
+.menu {
+    @apply flex flex-col md:flex-row justify-center md:justify-start gap-12 text-sm text-white;
+}
+
+.menu div {
+    @apply flex flex-col gap-2;
+}
+
+.menu a{
+    @apply hover:text-gray-400 transition duration-300 uppercase tracking-wide;
+}
+
+/*Social red*/
+.sociales {
+    @apply flex flex-col items-center md:items-end mt-6 md:mt-0;
+}
+
+.icons {
+    @apply flex gap-4 text-lg;
+}
+
+.icons a {
+    @apply text-white hover:text-gray-400 transition duration-300;
+}
+
+.privacy {
+    @apply mt-2 text-sm text-gray-400 hover:text-white transition duration-300;
+}

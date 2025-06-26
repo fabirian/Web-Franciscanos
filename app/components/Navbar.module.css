@@ -1,0 +1,33 @@
+.navbar {
+    @apply bg-[#F8F4F1] text-[#552B1F] py-4 px-8 flex items-center shadow-md;
+}
+
+.logo {
+    @apply flex items-center mr-auto; 
+}
+
+.logo img {
+    @apply h-12 w-auto;
+}
+
+/* Contenedor del menú y la búsqueda a la derecha */
+.menuWrapper {
+    @apply flex items-center gap-x-6 flex-grow justify-end; 
+}
+
+.navlinks {
+    @apply flex gap-x-4 items-center;
+}
+
+.navlinks a, .icons a {
+    @apply text-[#552B1F] hover:text-[#A47C68] transition text-lg font-medium;
+}
+
+/* Sección de iconos y búsqueda */
+.rightSection {
+    @apply flex items-center text-[#552B1F] hover:text-[#A47C68] text-lg;
+}
+
+.language-select {
+    @apply bg-transparent text-[#552B1F] text-sm border-none cursor-pointer;
+}
