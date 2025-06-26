@@ -1,5 +1,5 @@
 ```markdown
-# Web Franciscanos
+## Web Franciscanos
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400.png?text=Web+Franciscanos+Preview" alt="Preview">
