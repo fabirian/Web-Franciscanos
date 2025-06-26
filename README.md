@@ -130,5 +130,3 @@ Web-Franciscanos/
 ## 📄 Licencia
 
 MIT © [Fabián Galindez Rivera](https://github.com/fabirian)
-
-(https://opensource.org/licenses/MIT)
