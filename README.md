@@ -33,11 +33,6 @@ El sistema permite:
 - Galería multimedia
 - Formularios de contacto
 
-**Tecnologías principales**: 
-`React 18` `Strapi 4` `Tailwind CSS 3` `JWT Auth` `REST API`
-
-### Versiones alternativas:
-
 ## 🖥️ Arquitectura Técnica
 
 Solución fullstack con separación clara de capas:
@@ -45,7 +40,6 @@ Solución fullstack con separación clara de capas:
 - **Backend**: API RESTful con Strapi (Node.js/Express)
 - **Base de datos**: PostgreSQL (en producción)
 - **Autenticación**: JWT con roles personalizados
-- **CI/CD**: Despliegue automático con GitHub Actions
 
 ## ✝️ Misión Franciscana Digital
 
@@ -60,12 +54,12 @@ Este proyecto busca llevar la espiritualidad Franciscana al mundo digital median
 ## 🚀 Tecnologías
 
 **Frontend**  
-[![React](https://img.shields.io/badge/React-18.2-%2361DAFB?logo=react)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.0-%646CFF?logo=vite)](https://vitejs.dev/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-3.3-%2338B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![React]
+[![Vite]
+[![Tailwind]
 
 **Backend**  
-[![Strapi](https://img.shields.io/badge/Strapi-4.5-%232F2E8B?logo=strapi)](https://strapi.io/)
+[![Strapi]
 
 ## ✨ Características
 
@@ -141,12 +135,3 @@ MIT © [Fabián Galindez Rivera](https://github.com/fabirian)
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ```
-
-### Para personalizar:
-1. Reemplaza las imágenes placeholder con capturas reales
-2. Añade badges específicos de tus herramientas
-3. Incluye instrucciones para:
-   - Primer despliegue
-   - Creación de usuario admin
-   - Configuración de la base de datos
-4. Agrega enlaces a tu demo en vivo si está disponible
